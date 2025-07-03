@@ -29,7 +29,7 @@ function draw() {
   text("Te deseo un día mágico 💖", width / 2, height / 2 + 60);
 
   textSize(width * 0.03);
-  text("Con cariño, José 💫", width / 2, height / 2 + 100);
+  text("Con cariño, Jesús 💫", width / 2, height / 2 + 100);
 
   for (let c of corazones) {
     drawHeart(c.x, c.y, c.size);
